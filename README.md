@@ -1,7 +1,7 @@
 # Arduino Thermometer
 Displaying temperature data from a thermistor on a LCD display.
 
-Parts:
+**Parts:**
 * 1x Arduino Mega 2560
 * 1x LCD1602 Module (with pin header)
 * 1x Thermistor
