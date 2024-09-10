@@ -1,4 +1,4 @@
-# Thermometer-Arduino
+# Arduino Thermometer
 Displaying temperature data from a thermistor on a LCD display.
 
 Parts:
